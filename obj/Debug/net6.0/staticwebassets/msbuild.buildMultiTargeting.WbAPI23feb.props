@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WbAPI23feb.props" />
+</Project>
